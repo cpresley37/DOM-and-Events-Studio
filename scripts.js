@@ -14,6 +14,7 @@ function init (){
     const right = document.getElementById("right");
     
 }
+// Testing pull
 // 1.
 window.addEventListener("load", function() {
     console.log('Window Loaded');
